@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハローベイビー",
+  "base_artist": "BLUEGOATS",
+  "createdAt": "2026-03-31T04:27:53.516519Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハローベイビー",
+      "artist": "BLUEGOATS",
+      "has_synced": false,
+      "path": "select/pl_01_ハローベイビー_BLUEGOATS.txt"
+    }
+  ]
+}
